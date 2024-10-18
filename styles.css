@@ -28,6 +28,7 @@ header {
 
 article {
   display: flex;
+  max-width: 35rem;
 }
 
 article img {
