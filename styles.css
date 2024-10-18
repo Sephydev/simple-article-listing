@@ -34,6 +34,8 @@ article {
 
 div {
   display: flex;
+  flex-direction: column;
+  max-width: 25rem;
 }
 
 article img {
