@@ -34,3 +34,7 @@ h2 {
   font-size: 1.25rem;
   font-weight: 600;
 }
+
+time {
+  font-size: 0.875rem;
+}
