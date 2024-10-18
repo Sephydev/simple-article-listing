@@ -19,6 +19,10 @@ header img {
   margin: 0 auto;
 }
 
+header {
+  margin-bottom: 2.5rem;
+}
+
 article img {
   border-radius: 1rem;
 }
