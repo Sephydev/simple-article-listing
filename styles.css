@@ -32,6 +32,10 @@ article {
   margin: 0 auto;
 }
 
+div {
+  display: flex;
+}
+
 article img {
   border-radius: 1rem;
 }
