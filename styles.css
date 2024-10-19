@@ -57,3 +57,7 @@ time {
   font-weight: 500;
   color: #6C727F;
 }
+
+article:hover {
+  background-color: #D9D9D9;
+}
