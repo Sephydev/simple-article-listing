@@ -31,6 +31,7 @@ article {
   max-width: 36rem;
   margin: 0 auto;
   gap: 3.5rem;
+  align-items: center;
 }
 
 div {
