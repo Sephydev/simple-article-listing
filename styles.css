@@ -28,7 +28,7 @@ header {
 
 article {
   display: flex;
-  max-width: 36rem;
+  justify-content: center;
   margin: 3rem auto;
   gap: 3.5rem;
   align-items: center;
