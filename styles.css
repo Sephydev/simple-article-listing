@@ -33,6 +33,7 @@ article {
   gap: 3rem;
   align-items: center;
   max-width: 50rem;
+  border-radius: 1rem;
 }
 
 div {
